@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EioAH0WM468=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jetwave\\Desktop\\NewPasswordGenerator\\NewPasswordGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Path\\To\\New\\NuGetCache\\passwordgenerator\\2.1.0\\passwordgenerator.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
